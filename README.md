@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm an opened learning working to be a Data Scientist who is able to develop strategies for analyzing data, preparing data for analysis, exploring, analyzing, and visualizing data, building models with data using programming languages, such as Python and R, and deploying models into applications.
+I'm a self learning individual working to be a Data Scientist who would able to develop strategies for analyzing data, preparing data for analysis, exploring, analyzing, and visualizing data, building models with data using programming languages, such as Python and R, and deploying models into applications.
 
 
 ## 🔗 Links
